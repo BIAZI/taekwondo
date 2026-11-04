@@ -1,0 +1,17 @@
+export const termos = [
+  { nome: "SONNAL", traducao: "✋Cutelo externo das mãos abertas"},
+  { nome: "HAN SONNAL", traducao: "🤚Cutelo externo de uma mão aberta" },
+  { nome: "SONNAL DUN", traducao: "🖐️Cutelo interno da mão, aberta" },
+  { nome: "SON DUN", traducao: "✋Costa da mão aberta" },
+  { nome: "PION SONKUT", traducao: "🖖Ponta dos quatro dedos, Variação: (SEO. OFO.TCHETCHIO)" },
+  { nome: "KAUI SONKUT", traducao: "✌️Ponta dos dedos indicador e médio/separados" },
+  { nome: "HAN SONKUT", traducao: "☝️Ponta do dedo indicador, os demais dobrados" },
+  { nome: "MOUN DU SONKUT", traducao: "✌️🤞Ponta dos dedos indicador e médio juntos" },
+  { nome: "MOUN SE SONKUT", traducao: "🤟Ponta dos dedos, indicador/médio/anelar juntos" },
+  { nome: "MODUN SONKUT", traducao: "🤲Ponta de todos os dedos juntos" },
+  { nome: "GOM SON", traducao: "🐻✋Mão semi fechada ataque como garra de urso" },
+  { nome: "BATANGSON", traducao: "🤚Palma da mão, próxima do pulso dedos semiflexionados" },
+  { nome: "KUB FIN SON MOK", traducao: "👋Parte superior do pulso" },
+  { nome: "KAL JEBI", traducao: " 🤏Parte entre o polegar e indicador Ataque" },
+  { nome: "AGUISON", traducao: "🤌Parte entre o polegar e indicador ,pegar, desviar" },
+];

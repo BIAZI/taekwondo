@@ -1,0 +1,17 @@
+export const termos = [
+  { nome: "NARANI SOGUI", traducao: "Pés paralelos abertos um pé de largura" },
+  { nome: "JU TCHUM SOGUI", traducao: "Pés paralelos, dois pés de largura" },
+  { nome: "NATCHUO SOGUI", traducao: "Pés paralelos, três pés de largura" },
+  { nome: "UEN SOGUI", traducao: "Virar à esquerda, um pé de largura/90º" },
+  { nome: "ORUN SOGUI", traducao: "Virar à direita, um pé de largura/90º" },
+  { nome: "PION-HI-SOGUI", traducao: "Um pé de largura, ponta dos pés abertas" },
+  { nome: "ANTCHON SOGUI", traducao: "Um pé de largura, ponta dos pés fechados" },
+  { nome: "ANTCHONJU TCHUM SOGUI", traducao: "Dois pés/largura pés para dentro" },
+  { nome: "MO JU TCHUM SOGUI", traducao: "Dois pés/largura, um pé à frente" },
+  { nome: "AP SOGUI", traducao: "Base de um passo à frente com 90% de peso na frente" },
+  { nome: "MO SOGUI", traducao: "Base de um pé à frente" },
+  { nome: "AP KUBI SOGUI", traducao: "Base de um passo e meio 60% à frente" },
+  { nome: "TIT KUBI SOGUI", traducao: "Base de um passo à frente-90x 10" },
+  { nome: "BUM SOGUI", traducao: "Base de um pé/calcanhar levantado" },
+  { nome: "OTCHÁ SOGUI", traducao: "Base de um pé em forma T" },
+];
